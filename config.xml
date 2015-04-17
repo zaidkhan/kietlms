@@ -4,15 +4,15 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
         versionCode = "387"
-        version   = "1.13">
-    <name>Moodle Mobile</name>
+        version   = "1.0">
+    <name>PAF KIET LMS</name>
 
     <description>
-        Moodle Mobile official app
+        PAF KIET Official LMS App
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://mis.pafkiet.edu.pk" email="zaid.khan@live.com">
+        PAF KIET MIS TEAM
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
