@@ -6,24 +6,20 @@
 },
 "credits": [
 {
-    "Name": "Airf Hussain Soomro",
-    "Position": "Deputy Director MIS",
-    "Contact": "arif@pafkiet.edu.pk"
+    "fullname": "Airf Hussain Soomro",
+    "contribution": "Deputy Director MIS"
 },
 {
-    "Name": "Najam Munir",
-    "Position": "Manager MIS",
-    "Contact": "najm@pafkiet.edu.pk"
+    "fullname": "Najam Munir",
+    "contribution": "Manager MIS"
 },
 {
-    "Name": "Muhammad Zaid Khan",
-    "Position": "Application/UI Developer",
-    "Contact": "zaid.khan@pafkiet.edu.pk"
+    "fullname": "Muhammad Zaid Khan",
+    "contribution": "Application/UI Developer"
 },
 {
     "fullname": "Khadija Majid",
-    "Position": "Web Master",
-    "Contact": "webmaster@pafkiet.edu.pk"
+    "contribution": "Web Master"
 }
 ]
 }
